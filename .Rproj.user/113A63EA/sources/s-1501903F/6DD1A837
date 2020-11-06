@@ -1,0 +1,25 @@
+{
+    "id": "6DD1A837",
+    "path": "~/OneDrive - Michigan State University/Manuscript/PGIS/script/pgis_ess_wos_2020-11-03.Rmd",
+    "project_path": "script/pgis_ess_wos_2020-11-03.Rmd",
+    "type": "r_markdown",
+    "hash": "2014088631",
+    "contents": "",
+    "dirty": false,
+    "created": 1604696965975.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "chunk_output_type": "console",
+        "cursorPosition": "67,0",
+        "scrollLine": "42"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1604697218,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1604697218365,
+    "read_only": false,
+    "read_only_alternatives": []
+}
